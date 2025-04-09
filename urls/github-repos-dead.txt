@@ -1,3 +1,11 @@
+https://github.com/Kalyankensin_DigitalFate
+https://github.com/AntDX316_MCP-Server
+https://github.com/mattcoatsworth/shipstation-mcp-server
+https://github.com/mattcoatsworth/Shiphero-mcp-server
+https://github.com/mattcoatsworth/shipbob-mcp-server
+https://github.com/KaranThink41/HubSpot_MCP
+https://github.com/byazdani9/yazdani-supabase-mcp-server
+https://github.com/Alex-Replicator/mcp-letta
 https://github.com/lugondev/bsc-testnet-mcp-servers
 https://github.com/launchthatbrand/mcp-monday-ts
 https://github.com/apifox/apifox-mcp-server
