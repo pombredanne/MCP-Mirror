@@ -1,6 +1,6 @@
 # MCP-Mirror
 
-This is a collection of tools to mirror MCP related GitHub repos so that if they are deleted or taken down we still have a copy (in the first 4 eeks of MCP being available 4 MCP server repos have already disapeared).
+This is a collection of tools to mirror MCP related GitHub repos so that if they are deleted or taken down we still have a copy (in the first 4 weeks of MCP being available 4 MCP server repos have already disapeared).
 
 ## Repo mirroring
 
